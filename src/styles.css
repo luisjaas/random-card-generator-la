@@ -1,0 +1,41 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.card {
+  height: 520px;
+  width: 360px;
+  background: white;
+  margin: 0 auto;
+  margin-top: 15px;
+  border-radius: 5%;
+}
+
+h1 {
+  font-size: 120px;
+}
+
+p {
+  font-size: 140px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 0 auto;
+}
+
+.arriba {
+  width: 70px;
+  margin-left: 20px;
+}
+
+.abajo {
+  height: 70px;
+  width: 70px;
+  margin-bottom: 40px;
+  margin-left: 265px;
+}
+
+.input {
+  width: 360px;
+  margin: 0 auto;
+}
